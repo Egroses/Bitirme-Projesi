@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 1c16bd31f720841e9b6bf43973404a61
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Abductor_Pollicis_Longus0
+    second: {fileID: 2100000, guid: 8e34a5d7854e0456a8c8c5b94b711374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Adductor_Brevis0
+    second: {fileID: 2100000, guid: c3c201e2a19fa40f38945dbd827ba4a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Adductor_Longus0
+    second: {fileID: 2100000, guid: e90dcc254e0d94ea9820de9a74ec8679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Adductor_Magnus0
+    second: {fileID: 2100000, guid: 2686562110a054eb18e1f9b8a967b6af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alar_Cartilage0
+    second: {fileID: 2100000, guid: 9d8fefb4ad0e34104934642c56a6dd54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bicep0
+    second: {fileID: 2100000, guid: e17f77ae7c1094637bb2014840aed4bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bicep_Femoris0
+    second: {fileID: 2100000, guid: 48390e524454a42d29a704a494119a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brachialis0
+    second: {fileID: 2100000, guid: b4140d835e8e244b090f679d17650511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brachioradialis0
+    second: {fileID: 2100000, guid: c4527e5496f404d4491b98506a763cd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Breasts0
+    second: {fileID: 2100000, guid: 5ed952150afc140ba8c4972426265b50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brow_Fat0
+    second: {fileID: 2100000, guid: d3749c70a5d204bb29e1dd2b62222523, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buccinator0
+    second: {fileID: 2100000, guid: facf880aeb21e45b4a2eb9a3b19e5b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Columnella0
+    second: {fileID: 2100000, guid: 5efd870fc58da46abbf2d95c7b1072ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corrugator0
+    second: {fileID: 2100000, guid: 103c8971a24554fdc971a6765d46f006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deltoid0
+    second: {fileID: 2100000, guid: 86bcae95e42dd488f8a9c1d1cf7b2a35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Depressor_Anguli_Oris0
+    second: {fileID: 2100000, guid: bc2bbb9818f49442ea0a8a0ef0643bb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Depressor_Labii_Inferioris0
+    second: {fileID: 2100000, guid: 718f765fd87ce480ca21dbb6faf3873c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Depressor_Supercilii0
+    second: {fileID: 2100000, guid: 3355e50f667d6483e843fc41565d1b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Digastric0
+    second: {fileID: 2100000, guid: 059d183e1528e444ebbdaf6ee4fe8ce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ECU0
+    second: {fileID: 2100000, guid: 261b25fc673624a66bb5d7a14a551aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ear0
+    second: {fileID: 2100000, guid: f9b688eefef9042b6b3ba23f437052bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ext_Carpi_Radialis_Brevis0
+    second: {fileID: 2100000, guid: 6b9a69f0cdeb84eb597131d6a1e11069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ext_Carpi_Radialis_Longus0
+    second: {fileID: 2100000, guid: 6e01016f3857c406e8f15aeb196f083b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ext_Digitorum_Longus0
+    second: {fileID: 2100000, guid: 11816c8c1704d452095e10e0984f5cee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ext_Hallucis_Longus0
+    second: {fileID: 2100000, guid: 0744a5e0a2363416cb208a5ec8e3611b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extensor_Digitorium0
+    second: {fileID: 2100000, guid: acf515e71931b47dfbaa2f6e475fb728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extensor_Pollicis_Brevis0
+    second: {fileID: 2100000, guid: db37d64b7a3b643fbb26529d12ba950a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extensor_Pollicis_Longus0
+    second: {fileID: 2100000, guid: 4dca67a5a6272465b8dcbdb358a5beff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: External_Oblique0
+    second: {fileID: 2100000, guid: e6a26d51ae5504e0a9e4ca9ee141bece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes0
+    second: {fileID: 2100000, guid: 729d9fb7c93ca44339e8c22e2ac656a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FCR0
+    second: {fileID: 2100000, guid: 341d986baa66a48658b53a4567328da7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FCU0
+    second: {fileID: 2100000, guid: 7bf44597a3e6948be83cb5b95aacac13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FDProfundus0
+    second: {fileID: 2100000, guid: 519cee571979344d7a483006b9c62293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FDSuperficialis0
+    second: {fileID: 2100000, guid: 0b21355fd81154e9ead449a86d467d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fibularis_Brevis0
+    second: {fileID: 2100000, guid: 08a79761f130f4be68e82f21fd4cc655, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fibularis_Longus0
+    second: {fileID: 2100000, guid: 13174c49751af48b08782d66f4723824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fibularis_Tertius0
+    second: {fileID: 2100000, guid: e76f3eeee8e02430ca45ccd4bc77dfe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forensic_Markers0
+    second: {fileID: 2100000, guid: ec7de3251c4704b13882d09655e6e219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frontalis0
+    second: {fileID: 2100000, guid: 622e19e1f83a74d0c8351d51d09c2cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gastocnemius0
+    second: {fileID: 2100000, guid: 056ccd93f4b4242b7967b29fb7849648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gluteus_Maximus0
+    second: {fileID: 2100000, guid: af5a71b39f294434fbf7a4629cfb18d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gluteus_Medius0
+    second: {fileID: 2100000, guid: 4c89e8b55eaa346bd9c464e944522011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gracilis0
+    second: {fileID: 2100000, guid: eaf6a8b0ae8dd4a9b93d1a55bea139b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hyoid0
+    second: {fileID: 2100000, guid: 5134637895c5c4513844f7216bfb7ed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iliopsoas0
+    second: {fileID: 2100000, guid: 14433b7e7e3134eb6b1417ae6c41d39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Illiotibial_Tract0
+    second: {fileID: 2100000, guid: b8bb10993295444929c7124c683f7fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infraspinatus0
+    second: {fileID: 2100000, guid: 9de8a1c9c7a044935b93228d5452be6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lateral_Cartilage0
+    second: {fileID: 2100000, guid: 278235de27af8422d969326f810cb290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Latisimus_Dorsi0
+    second: {fileID: 2100000, guid: 700a1854c44dc4aaa965756d9f6ecfd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Levator_Anguli_Oris0
+    second: {fileID: 2100000, guid: dd05b4096c8f64f1ba7dfa5d3b14991b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Levator_Labii_Superioris0
+    second: {fileID: 2100000, guid: b9b39f1b4b3e546acbef3818705281fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Levator_Labii_Superioris_Alaque_Nasi0
+    second: {fileID: 2100000, guid: 27124516c4e6643448cf6d9e924faa71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Levator_Scapulae0
+    second: {fileID: 2100000, guid: 9c0bf6c3cfe964a039e5439d6cab590a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Massetter0
+    second: {fileID: 2100000, guid: 0e29c01ab5b0940489ac2d79c20c67d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mentalis0
+    second: {fileID: 2100000, guid: 2b089358027a5411bb8017bd1a5d8ff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mylohyoid0
+    second: {fileID: 2100000, guid: 29d82dd7a34c54bffa90db8a467e425a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nostril_Wing0
+    second: {fileID: 2100000, guid: b9aada826d9b147bcaea8d316a6ef290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Obicularis_Oculi0
+    second: {fileID: 2100000, guid: f47c17218acc04e3495552933c7b82b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Omohyoid0
+    second: {fileID: 2100000, guid: 150cb5e7aa5ad4a8a9ff96325c7ffc43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orbicularis_Oris0
+    second: {fileID: 2100000, guid: c763e343212f84a3ab7582e138b25484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pectinus0
+    second: {fileID: 2100000, guid: 0d646dc564e15461bbd8c8193909f532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pectoralis0
+    second: {fileID: 2100000, guid: a39bef81e930f4f628ce2fb2cba8ae9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Posterior_Fat_Pads0
+    second: {fileID: 2100000, guid: 44f239dde49154cc9a265bbb4517a7af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Procerus0
+    second: {fileID: 2100000, guid: 103cc84648daf4d85aefb2fb8bbd1408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rectus_Femoris0
+    second: {fileID: 2100000, guid: b18b454c974544b4db0b8594296f4275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rectus_abdominis0
+    second: {fileID: 2100000, guid: 98c5f94c6ec8a40009de8857a9fc899a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Risorius0
+    second: {fileID: 2100000, guid: 221ba3ac288c6455e89e61db01590ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ryan_Kingslien_Anatomy_Model0
+    second: {fileID: 2100000, guid: 8a014c9b3a2124b15824a8e1af3cca62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sartorius0
+    second: {fileID: 2100000, guid: 8ef5029c062314bb28912300da56c2f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scalenus_Medius0
+    second: {fileID: 2100000, guid: c62fb3ece131746c6a48150b998b1e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Semimembranosus0
+    second: {fileID: 2100000, guid: 73269ebedcfe14e7ab2c2bc8fd9345c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Semispinalis_Capitis0
+    second: {fileID: 2100000, guid: b72bfefc9d49d4582b905762f0674b5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Semitendinosus0
+    second: {fileID: 2100000, guid: 41146569e551c4de8a49d7ab6ee79109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Serratus_Anterior_10
+    second: {fileID: 2100000, guid: 0e7b9c23afcdc4fcca8a9faaae1e4f1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soleus0
+    second: {fileID: 2100000, guid: 41817bddf0ea04a98b4d9d9863ab11c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splenius_Capitis0
+    second: {fileID: 2100000, guid: a258c21ee08e040dab5839d6aae536f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sternocletomastoid0
+    second: {fileID: 2100000, guid: c9440c69dc7cd44be8c46748cc44c57f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sternohyoid0
+    second: {fileID: 2100000, guid: 0f90bc0ae87d04c288c9ab1c996c0863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TFL0
+    second: {fileID: 2100000, guid: 67271098f26114c7da800169ba1d08f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Temporalis0
+    second: {fileID: 2100000, guid: bbbb5f1d7a6bc4d5b94ffce7d0e0ab14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teres_Major0
+    second: {fileID: 2100000, guid: f0ec5de949ba549a3b7816663dedebdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teres_Minor0
+    second: {fileID: 2100000, guid: 91cc831698ba34a6bac462f8c7152a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tibialis0
+    second: {fileID: 2100000, guid: 8b4aaf1725d514a5cbc6e728fe2639cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trapezius0
+    second: {fileID: 2100000, guid: 32bdf61a8e6de4b3e9fdc8fabbcb60c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tricep0
+    second: {fileID: 2100000, guid: 1dd95691c361546d29b73690c9d24fc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vastus_Lateralis0
+    second: {fileID: 2100000, guid: 93913b719531a40e5bd54a3c7c9950e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vastus_medialis0
+    second: {fileID: 2100000, guid: bfb41b09ffa07447cb285e342809292a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zygomatic_Major0
+    second: {fileID: 2100000, guid: cb76f04d11d8e43059651c2d4eff1782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zygomatic_Minor0
+    second: {fileID: 2100000, guid: ced21714ffe42423abb929861a804f5d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

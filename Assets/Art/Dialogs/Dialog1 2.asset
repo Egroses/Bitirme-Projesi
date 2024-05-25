@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10f0554020612420bab47607f58b1f6d, type: 3}
+  m_Name: Dialog1 2
+  m_EditorClassIdentifier: 
+  talkText: yes
+  talkChoice:
+  - no
+  - hostoi
+  nextTalk:
+  - {fileID: 11400000, guid: 9f74addb4357c4d9c9b5c67e331010ab, type: 2}
+  - {fileID: 11400000, guid: 4b7652c0f7f48406f82ed89bbea42ded, type: 2}

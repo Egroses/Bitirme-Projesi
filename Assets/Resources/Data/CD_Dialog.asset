@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7940692cf2f484586307a3e61d9f93f, type: 3}
+  m_Name: CD_Dialog
+  m_EditorClassIdentifier: 
+  dialogData:
+    dialogList:
+    - "Merhaba, \u015Fu an Campus Atlantis'te yer alan hastanenin dahiliye klini\u011Findesiniz.
+      Bu projede, diyabet hastalar\u0131n\u0131n ya\u015Famlar\u0131n\u0131 iyile\u015Ftirmek
+      ve beslenme al\u0131\u015Fkanl\u0131klar\u0131n\u0131 d\xFCzenlemek amac\u0131yla
+      geli\u015Ftirilen ciddi bir oyunu tan\u0131taca\u011F\u0131z. Diyabet hastalar\u0131n\u0131n
+      g\xFCnl\xFCk ya\u015Famlar\u0131nda kar\u015F\u0131la\u015Ft\u0131klar\u0131
+      zorluklar g\xF6z \xF6n\xFCnde bulundurularak haz\u0131rlanan bu oyun, e\u011Fitim
+      hem\u015Firesinin yard\u0131m\u0131yla hastalar\u0131n al\u0131\u015Fkanl\u0131klar\u0131n\u0131
+      ve baz\u0131 detaylar\u0131 \xF6\u011Frenmelerine yard\u0131mc\u0131 olacakt\u0131r."
+    - "Bu oyun, diyabet hastalar\u0131n\u0131n do\u011Fru beslenme al\u0131\u015Fkanl\u0131klar\u0131
+      kazanmalar\u0131na yard\u0131mc\u0131 olacak g\xF6revler ve bilgilendirici
+      i\xE7erikler i\xE7ermektedir. E\u011Fitim hem\u015Firesi, hastalar\u0131n mevcut
+      al\u0131\u015Fkanl\u0131klar\u0131n\u0131 ve sa\u011Fl\u0131k durumlar\u0131n\u0131
+      de\u011Ferlendirmek i\xE7in \xE7e\u015Fitli sorular sorabilir ve bu bilgiler
+      do\u011Frultusunda hastalara \xF6zel rehberlik sa\u011Flayabilir. Bu s\xFCre\xE7te
+      hastalar\u0131n, oyunun sundu\u011Fu interaktif \xF6\u011Frenme deneyiminden
+      en iyi \u015Fekilde faydalanabilmeleri i\xE7in haz\u0131rl\u0131kl\u0131 olmalar\u0131
+      \xF6nemlidir."
+    - "Projemizin amac\u0131, diyabet hastalar\u0131n\u0131n hastal\u0131klar\u0131yla
+      daha etkin bir \u015Fekilde ba\u015Fa \xE7\u0131kmalar\u0131na yard\u0131mc\u0131
+      olacak, e\u011Fitici ve motive edici bir oyun geli\u015Ftirmektir. E\u011Fitim
+      hem\u015Firesinin y\xF6nlendirmeleri do\u011Frultusunda, hastalar al\u0131\u015Fkanl\u0131klar\u0131n\u0131
+      ve sa\u011Fl\u0131k durumlar\u0131n\u0131 daha iyi y\xF6netmeyi \xF6\u011Frenebilirler.
+      Bu sayede, diyabetle ilgili bilgilerini art\u0131rarak, sa\u011Fl\u0131kl\u0131
+      bir ya\u015Fam s\xFCrd\xFCrme yolunda \xF6nemli ad\u0131mlar atabilirler."
