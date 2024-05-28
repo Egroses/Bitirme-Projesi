@@ -1032,8 +1032,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1097962674}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.0047653797, y: 0.9913262, z: -0.1258606, w: 0.037533958}
-  m_LocalPosition: {x: -4.9847393, y: 2.4926915, z: 7.3017235}
+  m_LocalRotation: {x: 0.12595075, y: -0.0000000017069358, z: 2.1671566e-10, w: 0.9920365}
+  m_LocalPosition: {x: -4.77, y: 2.4926915, z: 1.6301455}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1389,7 +1389,7 @@ MonoBehaviour:
         m_Calls:
         - m_Target: {fileID: 1057281844}
           m_TargetAssemblyTypeName: Script.Runtime.Managers.TaskManager, Assembly-CSharp
-          m_MethodName: OnEducationOver
+          m_MethodName: OnGameOver
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}

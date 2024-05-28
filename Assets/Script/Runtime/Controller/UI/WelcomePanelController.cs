@@ -41,6 +41,10 @@ namespace Script.Runtime.Controller.UI
                 Debug.LogError("Scene Transform Not Found");
             }
         }
+        private void OnEnable()
+        {
+            OnRemoveGame();
+        }
 
         [Button("Start Game")]
         public void OnStartGame()
@@ -55,8 +59,9 @@ namespace Script.Runtime.Controller.UI
         {
             
 
-            if(_objectHolder!=null)
+            if(sceneTransform.childCount>0)
             {
+                _objectHolder = sceneTransform.GetChild(0).gameObject;
 #if UNITY_EDITOR
                 DestroyImmediate(_objectHolder);
 #else

@@ -25,5 +25,12 @@ namespace Script.Runtime.Managers
         {
             TaskSignals.Instance.OnEducationOver?.Invoke();
         }
+        public void OnGameOver()
+        {
+            GameStateManager.Instance.SetPlayerCanInteract();
+            GameStateManager.Instance.SetPlayerCanMove();
+            CameraSignals.Instance.OnCameraRelease();
+            CoreUISignals.Instance.OnOpenPanel?.Invoke(UIPanelTypes.Welcome,0);
+        }
     }
 }

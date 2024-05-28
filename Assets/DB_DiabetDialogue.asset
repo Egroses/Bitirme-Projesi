@@ -384,21 +384,17 @@ MonoBehaviour:
         destinationDialogueID: 9
         isConnector: 0
         priority: 2
-      conditionsString: ' (CurrentQuestState("InjectionLocation") == "unassigned")
-        and (CurrentQuestState("InjectionRotation") == "unassigned") and (CurrentQuestState("LastDialog")
-        == "unassigned")'
-      userScript: 'SetQuestState("InjectionRotation", "unassigned");
+      conditionsString: ' (CurrentQuestState("InjectionLocation") == "unassigned")'
+      userScript: 'SetQuestState("LastDialog", "unassigned");
 
-        SetQuestState("InjectionLocation",
-        "unassigned");
-
-        SetQuestState("LastDialog", "unassigned")'
+        SetQuestState("InjectionRotation",
+        "unassigned")'
       onExecute:
         m_PersistentCalls:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 159.90848
+        x: 162.7778
         y: 121.02524
         width: 160
         height: 30
@@ -3387,8 +3383,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 0.3435153
+    canvasScrollPosition: {x: 147.55566, y: 0}
+    canvasZoom: 0.3485153
   - id: 2
     fields:
     - title: Title
